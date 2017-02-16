@@ -72,6 +72,8 @@ class Graph:
 
 class TestGraph(unittest.TestCase):
 
+
+
     def test_bfs_true(self):
         g = Graph()
         g.add_node(1)
